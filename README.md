@@ -27,7 +27,7 @@ POSP official notes application, written in flutter, beautiful, fast and secure.
 - Drawings
 
 ## Compiling the app
-Before anything, be sure to have a working flutter sdk setup.
+Before anything, be sure to have a [working flutter sdk setup](https://flutter.dev/docs/get-started/install/linux).
 
 Be sure to disable signing on build.gradle or change keystore to sign the app
 
